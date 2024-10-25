@@ -1,4 +1,4 @@
-# Hi there, I'm [Moeed] 👋
+# Hi there, I'm Moeed 👋
 
 ## About Me
 I'm a passionate developer who loves working with various programming languages and technologies. My interests include:
@@ -12,4 +12,4 @@ I'm a passionate developer who loves working with various programming languages 
 ## Top Languages
 !Top Languages
 
-*This README was generated with ❤️ by [Moeed].*
+*This README was generated with ❤️ by Moeed.*
