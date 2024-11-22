@@ -1,8 +1,7 @@
 # Hi there, I'm Moeed 👋
 
 ## About Me
-I'm self taught FrontEnd Dev and Cyber Security Enthusiast:
-
+I'm self taught FrontEnd Dev and Cyber Security Enthusiast.
 I'm a passionate developer who loves working with various programming languages and technologies. My interests include:
 
 - **Linux**: I enjoy exploring different Linux distributions and customizing my environment.
