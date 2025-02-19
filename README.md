@@ -10,5 +10,3 @@ I'm a passionate developer who loves working with various programming languages 
 - **Java**: Object-oriented programming at its best.
 - **Python**: Great for scripting, automation, and data analysis.
 - **Rust**: Safe, concurrent, and fast programming difficult for reverse engineering.
-
-*This README was generated with ❤️ by Moeed.*
