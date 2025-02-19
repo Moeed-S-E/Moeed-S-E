@@ -25,8 +25,8 @@ Here are some languages I work with and enjoy:
 
 ## Technologies & Tools
 
-- **Operating Systems**: Linux, Windows
-- **Text Editors**: VS Code, Vim
+- **Operating Systems**: ![Linux](https://img.shields.io/badge/Linux-00599C?style=flat&logo=linux&logoColor=white) Linux, ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white) Windows
+- **Text Editors**: VS Code ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 - **Version Control**: Git, GitHub
 
 ## Contact Me
