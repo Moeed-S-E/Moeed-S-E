@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm a **Cyber Security** Enthusiast with a passion for development and exploration.
+I'm a **Web Development** Enthusiast with a passion for development and exploration.
 
 I enjoy working with various programming languages and technologies. My interests include:
 
@@ -16,12 +16,10 @@ Here are some languages I work with and enjoy:
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=cpp&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-306998?style=flat&logo=python&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
 
 - **C/C++**: The classic language that powers so much of the software we use today.
 - **Java**: Object-oriented programming at its best.
 - **Python**: Great for scripting, automation, and data analysis.
-- **Rust**: Safe, concurrent, and fast, making it harder to reverse engineer.
 
 ## Technologies & Tools
 
